@@ -1,4 +1,4 @@
 runtime_resource_overlay {
-    name: "MistSystemUIOverlay",
+    name: "EvoXSystemUIOverlay",
     product_specific: true,
 }
