@@ -4627,6 +4627,16 @@
     </path>
 
     <path name="ultrasound-proximity-input">
+        <!-- Keep ultrasound from latching ST backend (LSM on SLIMBUS_1_TX preproc) -->
+        <ctl name="LSM1 Mixer SLIMBUS_1_TX" value="0" />
+        <ctl name="LSM2 Mixer SLIMBUS_1_TX" value="0" />
+        <ctl name="LSM3 Mixer SLIMBUS_1_TX" value="0" />
+        <ctl name="LSM4 Mixer SLIMBUS_1_TX" value="0" />
+        <ctl name="LSM5 Mixer SLIMBUS_1_TX" value="0" />
+        <ctl name="LSM6 Mixer SLIMBUS_1_TX" value="0" />
+        <ctl name="LSM7 Mixer SLIMBUS_1_TX" value="0" />
+        <ctl name="LSM8 Mixer SLIMBUS_1_TX" value="0" />
+        <ctl name="SLIMBUS_1_TX LSM Function" value="None" />
     </path>
 
     <path name="ultrasound-proximity-output">

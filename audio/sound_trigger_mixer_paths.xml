@@ -130,51 +130,51 @@
 <!--#endif-->
 
     <path name="listen-voice-wakeup-1">
-        <ctl name="SLIMBUS_5_TX LSM Function" value="AUDIO" />
-        <ctl name="LSM1 Port" value="SLIMBUS_5_TX" />
-        <ctl name="LSM1 Mixer SLIMBUS_5_TX" value="1" />
+        <ctl name="SLIMBUS_1_TX LSM Function" value="AUDIO" />
+        <ctl name="LSM1 Port" value="SLIMBUS_1_TX" />
+        <ctl name="LSM1 Mixer SLIMBUS_1_TX" value="1" />
     </path>
 
     <path name="listen-voice-wakeup-2">
-        <ctl name="SLIMBUS_5_TX LSM Function" value="AUDIO" />
-        <ctl name="LSM2 Port" value="SLIMBUS_5_TX" />
-        <ctl name="LSM2 Mixer SLIMBUS_5_TX" value="1" />
+        <ctl name="SLIMBUS_1_TX LSM Function" value="AUDIO" />
+        <ctl name="LSM2 Port" value="SLIMBUS_1_TX" />
+        <ctl name="LSM2 Mixer SLIMBUS_1_TX" value="1" />
     </path>
 
     <path name="listen-voice-wakeup-3">
-        <ctl name="SLIMBUS_5_TX LSM Function" value="AUDIO" />
-        <ctl name="LSM3 Port" value="SLIMBUS_5_TX" />
-        <ctl name="LSM3 Mixer SLIMBUS_5_TX" value="1" />
+        <ctl name="SLIMBUS_1_TX LSM Function" value="AUDIO" />
+        <ctl name="LSM3 Port" value="SLIMBUS_1_TX" />
+        <ctl name="LSM3 Mixer SLIMBUS_1_TX" value="1" />
     </path>
 
     <path name="listen-voice-wakeup-4">
-        <ctl name="SLIMBUS_5_TX LSM Function" value="AUDIO" />
-        <ctl name="LSM4 Port" value="SLIMBUS_5_TX" />
-        <ctl name="LSM4 Mixer SLIMBUS_5_TX" value="1" />
+        <ctl name="SLIMBUS_1_TX LSM Function" value="AUDIO" />
+        <ctl name="LSM4 Port" value="SLIMBUS_1_TX" />
+        <ctl name="LSM4 Mixer SLIMBUS_1_TX" value="1" />
     </path>
 
     <path name="listen-voice-wakeup-5">
-        <ctl name="SLIMBUS_5_TX LSM Function" value="AUDIO" />
-        <ctl name="LSM5 Port" value="SLIMBUS_5_TX" />
-        <ctl name="LSM5 Mixer SLIMBUS_5_TX" value="1" />
+        <ctl name="SLIMBUS_1_TX LSM Function" value="AUDIO" />
+        <ctl name="LSM5 Port" value="SLIMBUS_1_TX" />
+        <ctl name="LSM5 Mixer SLIMBUS_1_TX" value="1" />
     </path>
 
     <path name="listen-voice-wakeup-6">
-        <ctl name="SLIMBUS_5_TX LSM Function" value="AUDIO" />
-        <ctl name="LSM6 Port" value="SLIMBUS_5_TX" />
-        <ctl name="LSM6 Mixer SLIMBUS_5_TX" value="1" />
+        <ctl name="SLIMBUS_1_TX LSM Function" value="AUDIO" />
+        <ctl name="LSM6 Port" value="SLIMBUS_1_TX" />
+        <ctl name="LSM6 Mixer SLIMBUS_1_TX" value="1" />
     </path>
 
     <path name="listen-voice-wakeup-7">
-        <ctl name="SLIMBUS_5_TX LSM Function" value="AUDIO" />
-        <ctl name="LSM7 Port" value="SLIMBUS_5_TX" />
-        <ctl name="LSM7 Mixer SLIMBUS_5_TX" value="1" />
+        <ctl name="SLIMBUS_1_TX LSM Function" value="AUDIO" />
+        <ctl name="LSM7 Port" value="SLIMBUS_1_TX" />
+        <ctl name="LSM7 Mixer SLIMBUS_1_TX" value="1" />
     </path>
 
     <path name="listen-voice-wakeup-8">
-        <ctl name="SLIMBUS_5_TX LSM Function" value="AUDIO" />
-        <ctl name="LSM8 Port" value="SLIMBUS_5_TX" />
-        <ctl name="LSM8 Mixer SLIMBUS_5_TX" value="1" />
+        <ctl name="SLIMBUS_1_TX LSM Function" value="AUDIO" />
+        <ctl name="LSM8 Port" value="SLIMBUS_1_TX" />
+        <ctl name="LSM8 Mixer SLIMBUS_1_TX" value="1" />
     </path>
 
     <path name="listen-voice-wakeup-1 preproc">
