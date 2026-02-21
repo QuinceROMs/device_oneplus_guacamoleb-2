@@ -28,8 +28,8 @@ TARGET_SUPPORTS_64_BIT_APPS := true
 # Quick Tap
 TARGET_SUPPORTS_QUICK_TAP := true
 
-# Aperture
-TARGET_BUILD_APERTURE_CAMERA := false
+# Exclude Aperture in favor of OnePlus Camera
+PRODUCT_NO_CAMERA := true
 
 # AudioFX
 TARGET_EXCLUDES_AUDIOFX := true
