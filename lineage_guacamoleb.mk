@@ -31,8 +31,8 @@ TARGET_SUPPORTS_QUICK_TAP := true
 # DeviceAsWebcam
 TARGET_BUILD_DEVICE_AS_WEBCAM := true
 
-# Aperture
-TARGET_BUILD_APERTURE_CAMERA := false
+# Exclude Aperture in favor of OnePlus Camera
+PRODUCT_NO_CAMERA := true
 
 # AudioFX
 TARGET_EXCLUDES_AUDIOFX := true
