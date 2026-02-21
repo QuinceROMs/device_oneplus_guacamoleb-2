@@ -29,6 +29,11 @@ odm/lib64/camera/com.qti.tuned.semco_imx586.bin
 odm/lib64/camera/com.qti.tuned.semco_imx586_18821.bin
 odm/lib64/camera/com.qti.tuned.sunny_imx471.bin
 odm/lib64/camera/com.qti.tuned.sunny_imx471_18821.bin
+odm/lib64/libarcsoft_dualcam_bokeh_api.so
+odm/lib64/libarcsoft_dualcam_refocus_left.so
+odm/lib64/libarcsoft_dualcam_refocus_preview.so
+odm/lib64/libarcsoft_dualcam_refocus_right.so
+odm/lib64/libarcsoft_dualcam_refocus_uw.so
 
 # Fingerprint
 odm/vendor/firmware/gfp9508.b00
