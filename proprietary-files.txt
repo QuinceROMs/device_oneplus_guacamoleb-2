@@ -29,11 +29,11 @@ odm/lib64/camera/com.qti.tuned.semco_imx586.bin
 odm/lib64/camera/com.qti.tuned.semco_imx586_18821.bin
 odm/lib64/camera/com.qti.tuned.sunny_imx471.bin
 odm/lib64/camera/com.qti.tuned.sunny_imx471_18821.bin
-odm/lib64/libarcsoft_dualcam_bokeh_api.so
-odm/lib64/libarcsoft_dualcam_refocus_left.so
-odm/lib64/libarcsoft_dualcam_refocus_preview.so
-odm/lib64/libarcsoft_dualcam_refocus_right.so
-odm/lib64/libarcsoft_dualcam_refocus_uw.so
+odm/lib64/libarcsoft_dualcam_bokeh_api.so;SYMLINK=vendor/lib64/libarcsoft_dualcam_bokeh_api.so;DISABLE_CHECKELF
+odm/lib64/libarcsoft_dualcam_refocus_left.so;SYMLINK=vendor/lib64/libarcsoft_dualcam_refocus_left.so;DISABLE_CHECKELF
+odm/lib64/libarcsoft_dualcam_refocus_preview.so;SYMLINK=vendor/lib64/libarcsoft_dualcam_refocus_preview.so;DISABLE_CHECKELF
+odm/lib64/libarcsoft_dualcam_refocus_right.so;SYMLINK=vendor/lib64/libarcsoft_dualcam_refocus_right.so;DISABLE_CHECKELF
+odm/lib64/libarcsoft_dualcam_refocus_uw.so;SYMLINK=vendor/lib64/libarcsoft_dualcam_refocus_uw.so;DISABLE_CHECKELF
 odm/lib64/goldResult.bin
 vendor/lib64/hw/camera.qcom.so
 vendor/lib64/hw/com.qti.chi.override.so
