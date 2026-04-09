@@ -46,6 +46,10 @@ TARGET_HAS_UDFPS := true
 # GApps
 WITH_GMS := true
 
+# Quick Search / Mosey
+TARGET_INCLUDE_MOSEY := true
+TARGET_USES_MOSEY_NOPAUTH := true
+
 PRODUCT_GMS_CLIENTID_BASE := android-oneplus
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
