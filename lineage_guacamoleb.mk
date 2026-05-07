@@ -37,6 +37,9 @@ PRODUCT_NO_CAMERA := true
 # AudioFX
 TARGET_EXCLUDES_AUDIOFX := true
 
+# Disable X-Reality
+USE_REALITY_ENGINE := false
+
 # Blur
 TARGET_ENABLE_BLUR := true
 
