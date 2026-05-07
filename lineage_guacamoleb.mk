@@ -37,6 +37,9 @@ TARGET_BUILD_APERTURE_CAMERA := false
 # AudioFX
 TARGET_EXCLUDES_AUDIOFX := true
 
+# Disable X-Reality
+USE_REALITY_ENGINE := false
+
 # Blur
 TARGET_ENABLE_BLUR := true
 
